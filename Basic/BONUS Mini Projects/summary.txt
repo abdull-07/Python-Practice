@@ -1,0 +1,5 @@
+Number of lines in 'demo.txt': 5
+Number of words in 'demo.txt': 85
+Number of letters in 'demo.txt': 550
+Number of spaces in 'demo.txt': 81
+Words starting with vowels: ['ipsum', 'amet', 'adipisicing', 'elit.', 'Officiis', 'Error', 'ullam', 'incidunt', 'Enim', 'ipsa', 'esse', 'illum', 'asperiores?', 'Itaque', 'amet', 'aliquid', 'adipisci', 'eum?', 'eligendi', 'omnis', 'aliquam', 'et', 'ut', 'eos', 'error', 'odit', 'Iure', 'inventore']
