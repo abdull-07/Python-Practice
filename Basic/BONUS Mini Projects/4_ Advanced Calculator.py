@@ -62,7 +62,7 @@ def advanced_calculator(num1, num2, op):
         return "Error: Division by zero is not allowed."
     return result
 
-# Check even/odd
+# Check positive/negative
 def check_result(result):
     if result >= 0:
         res = "Positive"
@@ -70,7 +70,7 @@ def check_result(result):
         res = "Negative"
     return res
 
-# Check positive/negative
+# Check even/odd
 def check_res(res):
     if res % 2 == 0:
         res2 = "Even"
