@@ -1,0 +1,159 @@
+What is the capital of France?
+paris
+paris, london, berlin, rome
+Which planet is known as the Red Planet?
+mars
+earth, venus, mars, jupiter
+What is 5 + 7?
+12
+10, 11, 12, 13
+Who wrote 'Romeo and Juliet'?
+shakespeare
+shakespeare, dickens, austen, tolstoy
+Which programming language is this quiz written in?
+python
+java, python, c++, javascript
+What is the boiling point of water in Celsius?
+100
+90, 100, 80, 120
+What is the largest mammal on Earth?
+blue whale
+elephant, blue whale, giraffe, shark
+Who painted the Mona Lisa?
+da vinci
+picasso, van gogh, da vinci, michelangelo
+What is the chemical symbol for Gold?
+au
+ag, au, fe, hg
+Which continent is the Sahara Desert located in?
+africa
+asia, africa, australia, europe
+What is the square root of 144?
+12
+10, 11, 12, 13
+How many planets are in the solar system?
+8
+7, 8, 9, 10
+What is the tallest mountain in the world?
+everest
+k2, everest, kilimanjaro, mont blanc
+Who discovered gravity?
+newton
+einstein, newton, galileo, tesla
+Which gas do plants absorb for photosynthesis?
+co2
+o2, co2, n2, h2
+Who is known as the Father of Computers?
+charles babbage
+alan turing, charles babbage, bill gates, steve jobs
+Which country gifted the Statue of Liberty to the USA?
+france
+france, england, spain, italy
+What is the largest organ in the human body?
+skin
+liver, heart, brain, skin
+What is the fastest land animal?
+cheetah
+lion, tiger, cheetah, horse
+What is the currency of Japan?
+yen
+yen, dollar, euro, pound
+Which ocean is the largest?
+pacific
+atlantic, pacific, indian, arctic
+What is H2O commonly known as?
+water
+water, hydrogen, oxygen, salt
+Who wrote 'Harry Potter'?
+jk rowling
+jk rowling, tolkien, c.s. lewis, stephen king
+Which planet is closest to the Sun?
+mercury
+venus, mercury, mars, earth
+What is the freezing point of water in Celsius?
+0
+0, 32, -10, 100
+What is the hardest natural substance on Earth?
+diamond
+gold, diamond, iron, quartz
+Which language has the most native speakers?
+mandarin
+english, mandarin, spanish, hindi
+How many colors are in a rainbow?
+7
+5, 6, 7, 8
+Which country is known as the Land of the Rising Sun?
+japan
+china, japan, korea, thailand
+What is the largest planet in the solar system?
+jupiter
+mars, jupiter, saturn, venus
+Who painted 'The Starry Night'?
+van gogh
+picasso, van gogh, da vinci, michelangelo
+Which element has the chemical symbol 'O'?
+oxygen
+hydrogen, oxygen, carbon, nitrogen
+What is the primary language spoken in Brazil?
+portuguese
+spanish, portuguese, english, french
+Which animal is known as the Ship of the Desert?
+camel
+camel, horse, elephant, donkey
+What is the chemical formula for table salt?
+nacl
+kcl, nacl, h2o, co2
+Which country has the largest population?
+china
+india, usa, china, russia
+Which planet has rings around it?
+saturn
+mars, saturn, jupiter, venus
+Who developed the theory of relativity?
+einstein
+newton, einstein, galileo, tesla
+Which country is famous for the Eiffel Tower?
+france
+italy, france, spain, germany
+What is the longest river in the world?
+nile
+amazon, nile, mississippi, yangtze
+Who is the author of 'The Lord of the Rings'?
+tolkien
+rowling, tolkien, c.s. lewis, stephen king
+Which instrument has keys, pedals, and strings?
+piano
+guitar, piano, violin, flute
+Which planet is known as the Blue Planet?
+earth
+mars, earth, venus, mercury
+What is the main gas in the Earth's atmosphere?
+nitrogen
+oxygen, nitrogen, carbon dioxide, hydrogen
+Which organ pumps blood throughout the body?
+heart
+heart, brain, liver, kidney
+What is the process by which plants make food?
+photosynthesis
+respiration, digestion, photosynthesis, transpiration
+Which country hosted the 2016 Summer Olympics?
+brazil
+china, brazil, uk, usa
+Who painted the ceiling of the Sistine Chapel?
+michelangelo
+da vinci, michelangelo, raphael, picasso
+Which is the smallest prime number?
+2
+1, 2, 3, 5
+Which device is used to measure temperature?
+thermometer
+barometer, thermometer, hygrometer, ammeter
+What is the speed of light in vacuum (approx km/s)?
+300000
+150000, 300000, 450000, 600000
+What is the largest desert in the world?
+sahara
+gobi, kalahari, sahara, arctic
+What is the first element on the periodic table?
+hydrogen
+hydrogen, helium, lithium, carbon

@@ -1,0 +1,1 @@
+{"id": 1, "title": "Python", "author": "John Doe", "isbn": "ISBN001", "publisher": "DataPub", "price": 250.0, "available": true}
